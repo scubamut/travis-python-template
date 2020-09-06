@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 PACKAGES = find_packages()
 
 opts = dict(name="mypackage",
-            maintainer="Author Name",
+            maintainer="Me",
             maintainer_email="maintainer@domain.com",
             description="Simple example of a Travis setup",
             long_description="Simple example of a Travis setup",
